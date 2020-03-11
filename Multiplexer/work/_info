@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/Decoder
+vMUX_BM
+Z0 !s110 1554785813
+!i10b 1
+!s100 k1[0@IbT_^3AKk?bN?LAk2
+IRJEnT1^7]4IDe]>25OTXP3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/Multiplexer
+w1554785295
+8C:/Users/82105/Desktop/Design/Multiplexer/MUX_BM.v
+FC:/Users/82105/Desktop/Design/Multiplexer/MUX_BM.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1554785813.000000
+!s107 C:/Users/82105/Desktop/Design/Multiplexer/MUX_BM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Multiplexer/MUX_BM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@m@u@x_@b@m
+vMUX_RTL
+R0
+!i10b 1
+!s100 2JInBoAikOK]MX]1F^E<]0
+Iohl1NJnI?7SUDZ8R363^V2
+R1
+R2
+w1554785809
+8C:/Users/82105/Desktop/Design/Multiplexer/MUX_RTL.v
+FC:/Users/82105/Desktop/Design/Multiplexer/MUX_RTL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Multiplexer/MUX_RTL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Multiplexer/MUX_RTL.v|
+!i113 1
+R5
+R6
+n@m@u@x_@r@t@l
+vMUX_TB
+R0
+!i10b 1
+!s100 hChdK<lXQX5oBKN`l3CEK1
+I11Y?jdIA77O]EShfXDRa[1
+R1
+R2
+w1554785718
+8C:/Users/82105/Desktop/Design/Multiplexer/MUX_TB.v
+FC:/Users/82105/Desktop/Design/Multiplexer/MUX_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Multiplexer/MUX_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Multiplexer/MUX_TB.v|
+!i113 1
+R5
+R6
+n@m@u@x_@t@b

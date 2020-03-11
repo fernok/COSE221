@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0418Design/Multiplexer
+vDec_BM
+Z0 !s110 1555554540
+!i10b 1
+!s100 WO4@ifl>Shk8Lm<NZGI5c3
+I_;_oi:jKU@nRI0In4]S@m3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0418Design/Decoder
+w1555554110
+8C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_BM.v
+FC:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_BM.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1555554540.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_BM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_BM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@dec_@b@m
+vDec_RTL
+R0
+!i10b 1
+!s100 gX=?a5WP1jSYjmV5HPA?k2
+I4c6RUZnLhZT4i^VN29i5M1
+R1
+R2
+w1555554344
+8C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_RTL.v
+FC:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_RTL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_RTL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_RTL.v|
+!i113 1
+R5
+R6
+n@dec_@r@t@l
+vDec_TB
+R0
+!i10b 1
+!s100 a2;BBkSJUBgY`bA0N0n>k2
+IV[jAP:P60JShNmoU<Cc=Z0
+R1
+R2
+w1555554535
+8C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_TB.v
+FC:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_TB.v|
+!i113 1
+R5
+R6
+n@dec_@t@b
+vFullAdder
+!s110 1555644887
+!i10b 1
+!s100 nD[LIbR`<<SRGJ:X[MG<Z2
+IE8K6Da`Xh8fnQEDo=UhR:3
+R1
+R2
+w1555644873
+8C:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1555644886.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v|
+!i113 1
+R5
+R6
+n@full@adder
+vRCA_TB
+!s110 1555644892
+!i10b 1
+!s100 cMUJNRBm>;4f2@FKT<J4D2
+I8m0?iRDIoQN4R<<]AQLWG0
+R1
+R2
+w1555552477
+8C:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1555644892.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v|
+!s90 -reportprogress|300|-work|work|C:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v|
+!i113 1
+R5
+R6
+n@r@c@a_@t@b

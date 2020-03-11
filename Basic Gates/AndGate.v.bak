@@ -1,0 +1,3 @@
+module AndGate(input x, y, output out);
+assign out = x&y;
+endmodule

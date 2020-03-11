@@ -1,0 +1,36 @@
+C:/Users/82105/Desktop/Design/Synchronous_Counter/FreqDivider.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Synchronous_Counter/FreqDivider.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FreqDivider
+
+Top level modules:
+	FreqDivider
+
+} {} {}} C:/Users/82105/Desktop/Design/Synchronous_Counter/Synchronous_Counter.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Synchronous_Counter/Synchronous_Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Synchronous_Counter
+
+Top level modules:
+	Synchronous_Counter
+
+} {} {}} C:/Users/82105/Desktop/Design/Synchronous_Counter/FD_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Synchronous_Counter/FD_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FD_TB
+
+Top level modules:
+	FD_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/Synchronous_Counter/TestBench.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Synchronous_Counter/TestBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/82105/Desktop/Design/Synchronous_Counter/Counter.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Synchronous_Counter/Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}}

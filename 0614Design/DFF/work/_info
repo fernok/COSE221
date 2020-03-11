@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/StopWatch
+vDFF
+Z0 !s110 1560508620
+!i10b 1
+!s100 ]abl^oPD_EdS3Ifn7CBBW0
+Ii3GKQkI7gC:=;FQk7mNzm0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0614Design/DFF
+w1560508320
+8C:/Users/82105/Desktop/Design/0614Design/DFF/DFF.v
+FC:/Users/82105/Desktop/Design/0614Design/DFF/DFF.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1560508619.000000
+!s107 C:/Users/82105/Desktop/Design/0614Design/DFF/DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0614Design/DFF/DFF.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@d@f@f
+vDoubleDFF
+R0
+!i10b 1
+!s100 eD:jVBn>1;UbME5eXh@[U2
+IC2G01j==<I4n>FlEZ`m0e3
+R1
+R2
+w1560508425
+8C:/Users/82105/Desktop/Design/0614Design/DFF/DoubleDFF.v
+FC:/Users/82105/Desktop/Design/0614Design/DFF/DoubleDFF.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z6 !s108 1560508620.000000
+!s107 C:/Users/82105/Desktop/Design/0614Design/DFF/DoubleDFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0614Design/DFF/DoubleDFF.v|
+!i113 1
+R4
+R5
+n@double@d@f@f
+vtestbench
+R0
+!i10b 1
+!s100 FgLI]T=zofPF2D?AGeQ@Y0
+I:f6m:EI<I:iFk8<CCkEj51
+R1
+R2
+w1560508618
+8C:/Users/82105/Desktop/Design/0614Design/DFF/testbench.v
+FC:/Users/82105/Desktop/Design/0614Design/DFF/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/82105/Desktop/Design/0614Design/DFF/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0614Design/DFF/testbench.v|
+!i113 1
+R4
+R5

@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/Calculator
+vcalculator
+Z0 !s110 1561283831
+!i10b 1
+!s100 z[i_jlb@>Dez>>>Ac384j3
+I1S:9H@M9V^dORcegb4?CG1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0619Design/CALC
+w1561283829
+8C:\Users\82105\Desktop\Design\0619Design\CALC\calculator.v
+FC:\Users\82105\Desktop\Design\0619Design\CALC\calculator.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1561283831.000000
+!s107 C:\Users\82105\Desktop\Design\0619Design\CALC\calculator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0619Design\CALC\calculator.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsegment7
+R0
+!i10b 1
+!s100 4TBVn0Y4d;DP[Ck6fW7mV2
+I<RL<NW2D8gYEja9C[<TmF2
+R1
+R2
+w1561277066
+8C:\Users\82105\Desktop\Design\0619Design\CALC\segment7.v
+FC:\Users\82105\Desktop\Design\0619Design\CALC\segment7.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0619Design\CALC\segment7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0619Design\CALC\segment7.v|
+!i113 1
+R5
+R6
+vtopmodule
+R0
+!i10b 1
+!s100 1kH]bOST?;bIzY?<;?2lC1
+I[a`Df0O[h_gGDFa=7[>Bf3
+R1
+R2
+w1561283756
+8C:\Users\82105\Desktop\Design\0619Design\CALC\topmodule.v
+FC:\Users\82105\Desktop\Design\0619Design\CALC\topmodule.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0619Design\CALC\topmodule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0619Design\CALC\topmodule.v|
+!i113 1
+R5
+R6

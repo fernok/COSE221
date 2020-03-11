@@ -1,0 +1,22 @@
+C:/Users/82105/Desktop/Design/Calculator/topmodule.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\Calculator\topmodule.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module topmodule
+
+Top level modules:
+	topmodule
+
+} {} {}} C:/Users/82105/Desktop/Design/Calculator/Calculator.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\Calculator\Calculator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Calculator
+
+Top level modules:
+	Calculator
+
+} {} {}} C:/Users/82105/Desktop/Design/Calculator/segment7.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\Calculator\segment7.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module segment7
+
+Top level modules:
+	segment7
+
+} {} {}}

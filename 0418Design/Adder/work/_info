@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/RippleCarryAdder
+vFA
+Z0 !s110 1556335788
+!i10b 1
+!s100 h]DQ6FVINR09N4oQH;_KZ0
+IYc@UhA8h4m_BR=mnSU41i2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0418Design/Adder
+w1556335425
+8C:/Users/82105/Desktop/Design/0418Design/Adder/FA.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/FA.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1556335788.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/FA.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@f@a
+vFullAdder
+Z7 !s110 1555644982
+!i10b 1
+!s100 nD[LIbR`<<SRGJ:X[MG<Z2
+IE8K6Da`Xh8fnQEDo=UhR:3
+R1
+R2
+w1555644873
+8C:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1555644982.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/FullAdder.v|
+!i113 1
+R5
+R6
+n@full@adder
+vMUX
+!s110 1556337038
+!i10b 1
+!s100 Xe3DS?i:ezh:jHYm`VG=_1
+I_`=z?J;7C2^ON7VgV92ON2
+R1
+R2
+w1556337031
+8C:/Users/82105/Desktop/Design/0418Design/Adder/MUX.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/MUX.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1556337038.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/MUX.v|
+!i113 1
+R5
+R6
+n@m@u@x
+vRCA
+R0
+!i10b 1
+!s100 >M[zXomFcPBORf4be=jZ22
+Ic]5K=^G5Wa1YZW@RAiP=10
+R1
+R2
+w1556335602
+8C:/Users/82105/Desktop/Design/0418Design/Adder/RCA.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/RCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/RCA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/RCA.v|
+!i113 1
+R5
+R6
+n@r@c@a
+vRCA_TB
+R7
+!i10b 1
+!s100 cMUJNRBm>;4f2@FKT<J4D2
+I8m0?iRDIoQN4R<<]AQLWG0
+R1
+R2
+w1555552477
+8C:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/RCA_TB.v|
+!i113 1
+R5
+R6
+n@r@c@a_@t@b
+vRCAtb
+!s110 1556337032
+!i10b 1
+!s100 P^@j_XK78kP5ofBiSO`OU2
+I0T?7BgL8?f2i_iV?oJJ7P3
+R1
+R2
+w1556336628
+8C:/Users/82105/Desktop/Design/0418Design/Adder/RCAtb.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/RCAtb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1556337032.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/RCAtb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/RCAtb.v|
+!i113 1
+R5
+R6
+n@r@c@atb
+vTestBench
+!s110 1556336269
+!i10b 1
+!s100 <fDFEeCKKJT0KeDKCc;Yg3
+IijK:[DAejUD`R:8LS5Ol23
+R1
+R2
+w1556336267
+8C:/Users/82105/Desktop/Design/0418Design/Adder/TestBench.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/TestBench.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1556336268.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/TestBench.v|
+!i113 1
+R5
+R6
+n@test@bench
+vTopModule
+!s110 1556335989
+!i10b 1
+!s100 Y84^QcKmF2U0flRDc68h?1
+I1L<hKVV^5TJ0ORVdK:Lbb1
+R1
+R2
+w1556335989
+8C:/Users/82105/Desktop/Design/0418Design/Adder/TopModule.v
+FC:/Users/82105/Desktop/Design/0418Design/Adder/TopModule.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1556335989.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Adder/TopModule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Adder/TopModule.v|
+!i113 1
+R5
+R6
+n@top@module

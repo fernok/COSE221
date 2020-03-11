@@ -1,0 +1,36 @@
+{C:/Users/82105/Desktop/Design/Basic Gates/OrGate.v} {1 {vlog -work work -stats=none {C:/Users/82105/Desktop/Design/Basic Gates/OrGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OrGate
+
+Top level modules:
+	OrGate
+
+} {} {}} {C:/Users/82105/Desktop/Design/Basic Gates/XOrGate.v} {1 {vlog -work work -stats=none {C:/Users/82105/Desktop/Design/Basic Gates/XOrGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XOrGate
+
+Top level modules:
+	XOrGate
+
+} {} {}} {C:/Users/82105/Desktop/Design/Basic Gates/NAndGate.v} {1 {vlog -work work -stats=none {C:/Users/82105/Desktop/Design/Basic Gates/NAndGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NAndGate
+
+Top level modules:
+	NAndGate
+
+} {} {}} {C:/Users/82105/Desktop/Design/Basic Gates/AndGate.v} {1 {vlog -work work -stats=none {C:/Users/82105/Desktop/Design/Basic Gates/AndGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AndGate
+
+Top level modules:
+	AndGate
+
+} {} {}} {C:/Users/82105/Desktop/Design/Basic Gates/TestBench.v} {1 {vlog -work work -stats=none {C:/Users/82105/Desktop/Design/Basic Gates/TestBench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}

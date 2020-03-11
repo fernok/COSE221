@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/KitTest
+vclk_dll
+Z0 !s110 1558957552
+!i10b 1
+!s100 GQ]IH]J]<j7emVkY^YM7j2
+I[fEUgVP3z>8F<=7_mg45o3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/MinuteCounter
+w1558584698
+8C:/Users/82105/Desktop/Design/MinuteCounter/clk_dll.v
+FC:/Users/82105/Desktop/Design/MinuteCounter/clk_dll.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1558957552.000000
+!s107 C:/Users/82105/Desktop/Design/MinuteCounter/clk_dll.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/MinuteCounter/clk_dll.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter
+R0
+!i10b 1
+!s100 MmK2`2EEdRVl@=Ui7EaBg0
+I5iD9<n>WAQ?b2QHe4l`FB2
+R1
+R2
+w1558581360
+8C:/Users/82105/Desktop/Design/MinuteCounter/counter.v
+FC:/Users/82105/Desktop/Design/MinuteCounter/counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/MinuteCounter/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/MinuteCounter/counter.v|
+!i113 1
+R5
+R6
+vcounter_tenth
+Z7 !s110 1558957553
+!i10b 1
+!s100 DbcXVlmzYg3[eHc=:Z??[0
+Ih^ho@a`6YC]lKPXWV4]5j1
+R1
+R2
+w1558957551
+8C:/Users/82105/Desktop/Design/MinuteCounter/counter_tenth.v
+FC:/Users/82105/Desktop/Design/MinuteCounter/counter_tenth.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1558957553.000000
+!s107 C:/Users/82105/Desktop/Design/MinuteCounter/counter_tenth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/MinuteCounter/counter_tenth.v|
+!i113 1
+R5
+R6
+vseg7
+R0
+!i10b 1
+!s100 J21HmCnJgfK_1T3<U>HbG2
+I33<3n22Q0LW8G`RZihCEl0
+R1
+R2
+w1558579065
+8C:/Users/82105/Desktop/Design/MinuteCounter/seg7.v
+FC:/Users/82105/Desktop/Design/MinuteCounter/seg7.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1558957551.000000
+!s107 C:/Users/82105/Desktop/Design/MinuteCounter/seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/MinuteCounter/seg7.v|
+!i113 1
+R5
+R6
+vtestbench
+R7
+!i10b 1
+!s100 6515Ai1l?NM<R=Mg@5U7f3
+Imo?2gGdKaGW:P:H`OOTb_2
+R1
+R2
+w1558581713
+8C:/Users/82105/Desktop/Design/MinuteCounter/testbench.v
+FC:/Users/82105/Desktop/Design/MinuteCounter/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/MinuteCounter/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/MinuteCounter/testbench.v|
+!i113 1
+R5
+R6
+vtop_seg7
+R0
+!i10b 1
+!s100 Z:lE:6R02o2R<;SZZ7=oC2
+I5eTe_Qb1Sz[21zME5=i[C1
+R1
+R2
+w1558957509
+8C:/Users/82105/Desktop/Design/MinuteCounter/top_seg7.v
+FC:/Users/82105/Desktop/Design/MinuteCounter/top_seg7.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/MinuteCounter/top_seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/MinuteCounter/top_seg7.v|
+!i113 1
+R5
+R6

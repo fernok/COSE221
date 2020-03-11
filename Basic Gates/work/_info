@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vAndGate
+Z0 !s110 1554778504
+!i10b 1
+!s100 k^WJLfLi7Moc>En9RXW2g3
+IYzD9>L>zQ5omFT3@Rl6[80
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/Basic Gates
+w1554778497
+8C:/Users/82105/Desktop/Design/Basic Gates/AndGate.v
+FC:/Users/82105/Desktop/Design/Basic Gates/AndGate.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1554778504.000000
+!s107 C:/Users/82105/Desktop/Design/Basic Gates/AndGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Basic Gates/AndGate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@and@gate
+vNAndGate
+R0
+!i10b 1
+!s100 f1]N?62AW?gO0E>hN4DkY2
+IZO3TJOK?z8o8@oi5OOSHj3
+R1
+R2
+w1554778127
+8C:/Users/82105/Desktop/Design/Basic Gates/NAndGate.v
+FC:/Users/82105/Desktop/Design/Basic Gates/NAndGate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Basic Gates/NAndGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Basic Gates/NAndGate.v|
+!i113 1
+R5
+R6
+n@n@and@gate
+vOrGate
+R0
+!i10b 1
+!s100 cMJk@iNG][iMbFhHPeJYW3
+IeS>hfHR]aD3n0RL]55fzE3
+R1
+R2
+w1554778492
+8C:/Users/82105/Desktop/Design/Basic Gates/OrGate.v
+FC:/Users/82105/Desktop/Design/Basic Gates/OrGate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Basic Gates/OrGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Basic Gates/OrGate.v|
+!i113 1
+R5
+R6
+n@or@gate
+vTestBench
+R0
+!i10b 1
+!s100 MF:b1`CARL<JO02[L51;G2
+Ih8SZElYzO0AU;26>DLff:0
+R1
+R2
+w1554778307
+8C:/Users/82105/Desktop/Design/Basic Gates/TestBench.v
+FC:/Users/82105/Desktop/Design/Basic Gates/TestBench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Basic Gates/TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Basic Gates/TestBench.v|
+!i113 1
+R5
+R6
+n@test@bench
+vXOrGate
+R0
+!i10b 1
+!s100 OM_hXDk`e_be@=:C>AG3Q1
+IR6jeV=c`NEVfOK[Y4hbM92
+R1
+R2
+w1554778148
+8C:/Users/82105/Desktop/Design/Basic Gates/XOrGate.v
+FC:/Users/82105/Desktop/Design/Basic Gates/XOrGate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Basic Gates/XOrGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Basic Gates/XOrGate.v|
+!i113 1
+R5
+R6
+n@x@or@gate

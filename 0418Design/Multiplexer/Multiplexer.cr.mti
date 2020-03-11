@@ -1,0 +1,22 @@
+C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MP_TB
+
+Top level modules:
+	MP_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_RTL.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_RTL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MP_RTL
+
+Top level modules:
+	MP_RTL
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_BM.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_BM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MP_BM
+
+Top level modules:
+	MP_BM
+
+} {} {}}

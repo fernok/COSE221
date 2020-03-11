@@ -1,0 +1,50 @@
+C:/Users/82105/Desktop/Design/Adder/RCA_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/RCA_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RCA_TB
+
+Top level modules:
+	RCA_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/Adder/FullAdder.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/FullAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} C:/Users/82105/Desktop/Design/Adder/HA_BM.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/HA_BM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA_BM
+
+Top level modules:
+	HA_BM
+
+} {} {}} C:/Users/82105/Desktop/Design/Adder/FullAdder_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/FullAdder_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_TB
+
+Top level modules:
+	FullAdder_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/Adder/HalfAdder_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/HalfAdder_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HalfAdder_TB
+
+Top level modules:
+	HalfAdder_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/Adder/RCA.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/RCA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RCA
+
+Top level modules:
+	RCA
+
+} {} {}} C:/Users/82105/Desktop/Design/Adder/HA_RTL.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Adder/HA_RTL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA_RTL
+
+Top level modules:
+	HA_RTL
+
+} {} {}}

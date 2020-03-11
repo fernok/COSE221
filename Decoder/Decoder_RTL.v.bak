@@ -1,0 +1,8 @@
+module Decoder_RTL(x, y, z, D);
+input x, y, z;
+output [7:0] D;
+
+assign D[0] = ~x&~y&~z;
+
+
+endmodule

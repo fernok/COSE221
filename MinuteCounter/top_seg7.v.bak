@@ -1,0 +1,21 @@
+module top_seg7(rst, clk, seg0, seg1);
+  input  rst, clk;
+
+  output[6:0] seg0, seg1;
+
+  wire[3:0] digit0, digit1;
+  wire out_clk0, out_clk1, out_clk2;
+  
+  // 50MHz -> 1Hz  divide
+  clk_dll u0(rst, clk, out_clk0, out_clk1); 
+  
+  // counter 
+  counter c0(rst, out_clk0, digit0); 
+  counter_tenth c1(rst, out_clk1, digit1, out_clk2); 
+   
+  // 7-segment decoder   
+  seg7 s0(digit0, seg0);
+  seg7 s1(digit1, seg1);
+  
+endmodule
+

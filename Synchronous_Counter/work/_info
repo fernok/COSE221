@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/DFliipFlop
+vCounter
+Z0 !s110 1558323784
+!i10b 1
+!s100 3hhz7XCjA=3NbQf0J3dlz2
+I;ea>@n1fX3ERlNhZRKh6i0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/Synchronous_Counter
+w1557979133
+8C:/Users/82105/Desktop/Design/Synchronous_Counter/Counter.v
+FC:/Users/82105/Desktop/Design/Synchronous_Counter/Counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1558323784.000000
+!s107 C:/Users/82105/Desktop/Design/Synchronous_Counter/Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Synchronous_Counter/Counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@counter
+vFD_TB
+Z7 !s110 1558323785
+!i10b 1
+!s100 nDVTlhZ@03ikbd]WOWBa^1
+I[AUI[UV78ZdVCd;b2CCc]0
+R1
+R2
+w1557985338
+8C:/Users/82105/Desktop/Design/Synchronous_Counter/FD_TB.v
+FC:/Users/82105/Desktop/Design/Synchronous_Counter/FD_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1558323785.000000
+!s107 C:/Users/82105/Desktop/Design/Synchronous_Counter/FD_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Synchronous_Counter/FD_TB.v|
+!i113 1
+R5
+R6
+n@f@d_@t@b
+vFreqDivider
+R0
+!i10b 1
+!s100 500cdL`zShfnY8YQgiLc90
+I2d275LV^h14`H7mPW2?zc1
+R1
+R2
+w1558323349
+8C:/Users/82105/Desktop/Design/Synchronous_Counter/FreqDivider.v
+FC:/Users/82105/Desktop/Design/Synchronous_Counter/FreqDivider.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Synchronous_Counter/FreqDivider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Synchronous_Counter/FreqDivider.v|
+!i113 1
+R5
+R6
+n@freq@divider
+vSynchronous_Counter
+R7
+!i10b 1
+!s100 Ee>[6nA5I_f;;cJ<k3Jhn0
+IBWo[]0W76;W`TC>^ECzWC2
+R1
+R2
+w1558323783
+8C:/Users/82105/Desktop/Design/Synchronous_Counter/Synchronous_Counter.v
+FC:/Users/82105/Desktop/Design/Synchronous_Counter/Synchronous_Counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/82105/Desktop/Design/Synchronous_Counter/Synchronous_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Synchronous_Counter/Synchronous_Counter.v|
+!i113 1
+R5
+R6
+n@synchronous_@counter
+vTestBench
+R7
+!i10b 1
+!s100 ZDC@6kzNPlJY7]RWAU5i]3
+I`Db_UP_Vzj^FU6ihQHE8U1
+R1
+R2
+w1558323728
+8C:/Users/82105/Desktop/Design/Synchronous_Counter/TestBench.v
+FC:/Users/82105/Desktop/Design/Synchronous_Counter/TestBench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/82105/Desktop/Design/Synchronous_Counter/TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Synchronous_Counter/TestBench.v|
+!i113 1
+R5
+R6
+n@test@bench

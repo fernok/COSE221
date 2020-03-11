@@ -1,0 +1,22 @@
+C:/Users/82105/Desktop/Design/0619Design/CALCv3/seg7.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0619Design\CALCv3\seg7.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seg7
+
+Top level modules:
+	seg7
+
+} {} {}} C:/Users/82105/Desktop/Design/0619Design/CALC_final/digit_calc.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0619Design\CALC_final\digit_calc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module digit_calc
+
+Top level modules:
+	digit_calc
+
+} {} {}} C:/Users/82105/Desktop/Design/0619Design/CALC/calculator.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0619Design\CALC\calculator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module calculator
+
+Top level modules:
+	calculator
+
+} {} {}}

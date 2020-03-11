@@ -1,0 +1,184 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0617Design/FF
+vebitreg
+Z0 !s110 1560760556
+!i10b 1
+!s100 <Lz:?6X^31EiRNA]AiP]E1
+Ib[i=IfhI4z=Fedl0E5FLz3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0617Design/Register
+w1560759404
+8C:\Users\82105\Desktop\Design\0617Design\Register\8bitreg.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\8bitreg.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1560760556.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\8bitreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\8bitreg.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vROL
+R0
+!i10b 1
+!s100 BBk;E0@9]6bHcA1Pd7:5N0
+IHUi_8M<AfXaD?gm?j^3EX1
+R1
+R2
+Z7 w1560760534
+8C:\Users\82105\Desktop\Design\0617Design\Register\ROL.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\ROL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\ROL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\ROL.v|
+!i113 1
+R5
+R6
+n@r@o@l
+vROR
+R0
+!i10b 1
+!s100 NTFO;`[D4gfmTY8QU^RU32
+ITJSTLYa5HYI7g5I2G;3?V2
+R1
+R2
+R7
+8C:\Users\82105\Desktop\Design\0617Design\Register\ROR.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\ROR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\ROR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\ROR.v|
+!i113 1
+R5
+R6
+n@r@o@r
+vSLA
+R0
+!i10b 1
+!s100 0Z8;lNg@YjkLi@6OILf2z2
+IV`98fT9lmPoU3a3LcKeHe3
+R1
+R2
+w1560760540
+8C:\Users\82105\Desktop\Design\0617Design\Register\SLA.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\SLA.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1560760555.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\SLA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\SLA.v|
+!i113 1
+R5
+R6
+n@s@l@a
+vSLL
+!s110 1560760555
+!i10b 1
+!s100 GWiFfY68ng^0T>3XSlP;N1
+IOAkYTElW0=YbZcFhEFGhD1
+R1
+R2
+w1560760546
+8C:\Users\82105\Desktop\Design\0617Design\Register\SLL.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\SLL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\SLL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\SLL.v|
+!i113 1
+R5
+R6
+n@s@l@l
+vSRA
+R0
+!i10b 1
+!s100 2[Ig?eDTOA17[H2O[<Q;b1
+IX:AkLnBhbRPeFF^BO;b?E1
+R1
+R2
+w1560760537
+8C:\Users\82105\Desktop\Design\0617Design\Register\SRA.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\SRA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\SRA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\SRA.v|
+!i113 1
+R5
+R6
+n@s@r@a
+vSRL
+!s110 1560760573
+!i10b 1
+!s100 0UZ`]Eikg1aJX_M>K^5bV2
+Iohe7e6UTlNE2_U]CN;_8`1
+R1
+R2
+w1560760568
+8C:\Users\82105\Desktop\Design\0617Design\Register\SRL.v
+FC:\Users\82105\Desktop\Design\0617Design\Register\SRL.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1560760573.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Register\SRL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Register\SRL.v|
+!i113 1
+R5
+R6
+n@s@r@l
+vtestbench
+R0
+!i10b 1
+!s100 IzFBA9=RR]>bWdVg]h0eB0
+I68i=Vg7aoIOKl4onRCIDB0
+R1
+R2
+w1560760403
+8C:\Users\82105\Desktop\Design\0617Design\FF\testbench.v
+FC:\Users\82105\Desktop\Design\0617Design\FF\testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0617Design\FF\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\FF\testbench.v|
+!i113 1
+R5
+R6

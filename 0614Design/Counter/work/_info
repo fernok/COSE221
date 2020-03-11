@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0614Design/Register
+vasync_cnt
+Z0 !s110 1560524551
+!i10b 1
+!s100 FX3n:S4dFa9kUdQ=d6Df;1
+IWk?WWBEomd^b:Y<`P3^4d0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0614Design/Counter
+w1560523065
+8C:\Users\82105\Desktop\Design\0614Design\Counter\async_cnt.v
+FC:\Users\82105\Desktop\Design\0614Design\Counter\async_cnt.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1560524550.000000
+!s107 C:\Users\82105\Desktop\Design\0614Design\Counter\async_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0614Design\Counter\async_cnt.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfreq_div
+Z7 !s110 1560524550
+!i10b 1
+!s100 alen>J>Tbo6^FLz?d?7Hm1
+IedzM4Eg?ENjf@j3m]6@l?3
+R1
+R2
+w1560521931
+8C:\Users\82105\Desktop\Design\0614Design\Counter\freq_div.v
+FC:\Users\82105\Desktop\Design\0614Design\Counter\freq_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0614Design\Counter\freq_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0614Design\Counter\freq_div.v|
+!i113 1
+R5
+R6
+vfreqdiv_cnt
+R7
+!i10b 1
+!s100 ghS_kYRAmRS<X;H:A]n2C2
+Igj3d<Im_VbXa1]fT=fYEl1
+R1
+R2
+w1560524544
+8C:\Users\82105\Desktop\Design\0614Design\Counter\freqdiv_cnt.v
+FC:\Users\82105\Desktop\Design\0614Design\Counter\freqdiv_cnt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0614Design\Counter\freqdiv_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0614Design\Counter\freqdiv_cnt.v|
+!i113 1
+R5
+R6
+vmono_cnt
+R7
+!i10b 1
+!s100 f15VX^J9IKo0_THb49Dll0
+IX:gRz<HlHdJn=`EcC=FhP3
+R1
+R2
+w1560524046
+8C:\Users\82105\Desktop\Design\0614Design\Counter\mono_cnt.v
+FC:\Users\82105\Desktop\Design\0614Design\Counter\mono_cnt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0614Design\Counter\mono_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0614Design\Counter\mono_cnt.v|
+!i113 1
+R5
+R6
+vsync_cnt
+R7
+!i10b 1
+!s100 ^P:ZOC119z6^Oi;LPO1WE3
+IIf6MYI^^OjST_?7>U[UaU3
+R1
+R2
+w1560523197
+8C:\Users\82105\Desktop\Design\0614Design\Counter\sync_cnt.v
+FC:\Users\82105\Desktop\Design\0614Design\Counter\sync_cnt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0614Design\Counter\sync_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0614Design\Counter\sync_cnt.v|
+!i113 1
+R5
+R6
+vtestbench
+R0
+!i10b 1
+!s100 @f[YAE<KlK5@jOj@3KS@72
+I0HkbchD]eR:hMMY0DDgjM2
+R1
+R2
+w1560522890
+8C:\Users\82105\Desktop\Design\0614Design\DFF\testbench.v
+FC:\Users\82105\Desktop\Design\0614Design\DFF\testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1560524551.000000
+!s107 C:\Users\82105\Desktop\Design\0614Design\DFF\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0614Design\DFF\testbench.v|
+!i113 1
+R5
+R6

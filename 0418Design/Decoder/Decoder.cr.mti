@@ -1,0 +1,22 @@
+C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_RTL.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_RTL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Dec_RTL
+
+Top level modules:
+	Dec_RTL
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Dec_TB
+
+Top level modules:
+	Dec_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_BM.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Decoder/Dec_BM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Dec_BM
+
+Top level modules:
+	Dec_BM
+
+} {} {}}

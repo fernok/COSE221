@@ -1,0 +1,43 @@
+C:/Users/82105/Desktop/Design/0418Design/Adder/TopModule.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Adder/TopModule.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TopModule
+
+Top level modules:
+	TopModule
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Adder/RCA.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Adder/RCA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RCA
+
+Top level modules:
+	RCA
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Adder/MUX.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Adder/MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Adder/FA.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Adder/FA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Adder/TestBench.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Adder/TestBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/82105/Desktop/Design/0418Design/Adder/RCAtb.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/0418Design/Adder/RCAtb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RCAtb
+
+Top level modules:
+	RCAtb
+
+} {} {}}

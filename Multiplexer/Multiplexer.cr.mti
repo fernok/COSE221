@@ -1,0 +1,22 @@
+C:/Users/82105/Desktop/Design/Multiplexer/MUX_BM.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Multiplexer/MUX_BM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_BM
+
+Top level modules:
+	MUX_BM
+
+} {} {}} C:/Users/82105/Desktop/Design/Multiplexer/MUX_TB.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Multiplexer/MUX_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_TB
+
+Top level modules:
+	MUX_TB
+
+} {} {}} C:/Users/82105/Desktop/Design/Multiplexer/MUX_RTL.v {1 {vlog -work work -stats=none C:/Users/82105/Desktop/Design/Multiplexer/MUX_RTL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_RTL
+
+Top level modules:
+	MUX_RTL
+
+} {} {}}

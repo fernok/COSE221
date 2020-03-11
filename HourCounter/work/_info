@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/MinuteCounter
+vclk_dll
+Z0 !s110 1559181863
+!i10b 1
+!s100 ANoY>kKaLC::TRm@Qb=H]0
+I_;?Nlz4n45A2ezQ[mKd>A1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/HourCounter
+w1559135120
+8C:/Users/82105/Desktop/Design/HourCounter/clk_dll.v
+FC:/Users/82105/Desktop/Design/HourCounter/clk_dll.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1559181863.000000
+!s107 C:/Users/82105/Desktop/Design/HourCounter/clk_dll.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/clk_dll.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcnt10
+Z7 !s110 1559181864
+!i10b 1
+!s100 YE_J7@6;TR5Z==7eL:dFV1
+I1SmJT?h]JD1o]?@JQW@e92
+R1
+R2
+w1559010195
+8C:/Users/82105/Desktop/Design/HourCounter/cnt10.v
+FC:/Users/82105/Desktop/Design/HourCounter/cnt10.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1559181864.000000
+!s107 C:/Users/82105/Desktop/Design/HourCounter/cnt10.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/cnt10.v|
+!i113 1
+R5
+R6
+vcnt24
+R7
+!i10b 1
+!s100 6gakKSL_=FVLKgdLZa`703
+Ia3U[HN1;Vic@VAkLbH89_2
+R1
+R2
+w1559181857
+8C:\Users\82105\Desktop\Design\HourCounter\cnt24.v
+FC:\Users\82105\Desktop\Design\HourCounter\cnt24.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\82105\Desktop\Design\HourCounter\cnt24.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\HourCounter\cnt24.v|
+!i113 1
+R5
+R6
+vcnt4
+R0
+!i10b 1
+!s100 Y[:XVUZ5_h9GdH]2QUb8Z2
+Il>Ee<G5<6`WCOIfJC_m9m3
+R1
+R2
+w1559008557
+8C:/Users/82105/Desktop/Design/HourCounter/cnt4.v
+FC:/Users/82105/Desktop/Design/HourCounter/cnt4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/HourCounter/cnt4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/cnt4.v|
+!i113 1
+R5
+R6
+vfreq_div
+R7
+!i10b 1
+!s100 6UW2e9hCY]=0dR`Z4^BQ?2
+ISQ>4J?KQQe95CCTJ:eYf32
+R1
+R2
+w1559123607
+8C:/Users/82105/Desktop/Design/HourCounter/freq_div.v
+FC:/Users/82105/Desktop/Design/HourCounter/freq_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/HourCounter/freq_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/freq_div.v|
+!i113 1
+R5
+R6
+vseg7
+R0
+!i10b 1
+!s100 J21HmCnJgfK_1T3<U>HbG2
+I1S9J2V;8?gfdP6Ek6@L0S0
+R1
+R2
+w1558332032
+8C:/Users/82105/Desktop/Design/HourCounter/seg7.v
+FC:/Users/82105/Desktop/Design/HourCounter/seg7.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/HourCounter/seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/seg7.v|
+!i113 1
+R5
+R6
+vtb_top_seg7
+R0
+!i10b 1
+!s100 `^?PmjRGFgKXXX:X4^?6n0
+I^?13[RD7Hdk?a0[N3C3o?3
+R1
+R2
+w1559135104
+8C:/Users/82105/Desktop/Design/HourCounter/tb_top_seg7.v
+FC:/Users/82105/Desktop/Design/HourCounter/tb_top_seg7.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/HourCounter/tb_top_seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/tb_top_seg7.v|
+!i113 1
+R5
+R6
+vtop_seg7
+R0
+!i10b 1
+!s100 _H[lXD4g>B[PGA`HS>z<e2
+Iz^>C;z:?MM]bYBZShh>dK2
+R1
+R2
+w1559135249
+8C:/Users/82105/Desktop/Design/HourCounter/top_seg7.v
+FC:/Users/82105/Desktop/Design/HourCounter/top_seg7.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1559181862.000000
+!s107 C:/Users/82105/Desktop/Design/HourCounter/top_seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/HourCounter/top_seg7.v|
+!i113 1
+R5
+R6

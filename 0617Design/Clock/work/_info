@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0617Design/Counter
+vcount6
+!s110 1560769263
+!i10b 1
+!s100 1GKCle6R?[bliHjCiDVWP2
+I6aH[AQ9lHk]VR6PB0;QJS3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/82105/Desktop/Design/0617Design/Clock
+w1560769193
+8C:\Users\82105\Desktop\Design\0617Design\Clock\count6.v
+FC:\Users\82105\Desktop\Design\0617Design\Clock\count6.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1560769263.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Clock\count6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Clock\count6.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vcounter
+Z5 !s110 1560769262
+!i10b 1
+!s100 ]JjHdOU<o5kLDA4e?EI7S1
+I7klECHN6ehgTU03]I5iQ@3
+R0
+R1
+w1560769188
+8C:\Users\82105\Desktop\Design\0617Design\Clock\counter.v
+FC:\Users\82105\Desktop\Design\0617Design\Clock\counter.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1560769262.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Clock\counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Clock\counter.v|
+!i113 1
+R3
+R4
+vfreq_div
+R5
+!i10b 1
+!s100 PW@6WOm`?VOBjbc6:K_Od3
+I@ekE9BHLaVjL7chHa:G7@2
+R0
+R1
+w1560769254
+8C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v
+FC:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v|
+!i113 1
+R3
+R4
+vhourcounter
+!s110 1560769716
+!i10b 1
+!s100 Q`PJORAGImG^0lPf>mD7N0
+IKb7A@n<j`OfOM@@Qo=P[F0
+R0
+R1
+w1560769708
+8C:\Users\82105\Desktop\Design\0617Design\Clock\hourcounter.v
+FC:\Users\82105\Desktop\Design\0617Design\Clock\hourcounter.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1560769716.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Clock\hourcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Clock\hourcounter.v|
+!i113 1
+R3
+R4
+vTB
+!s110 1560769714
+!i10b 1
+!s100 >gXFnnB6eY^I_gAmWnMTH2
+IQ_AETO]z4Wi=M@X?2EIj>1
+R0
+R1
+w1560769093
+8C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v
+FC:\Users\82105\Desktop\Design\0617Design\Counter\TB.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1560769714.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v|
+!i113 1
+R3
+R4
+n@t@b

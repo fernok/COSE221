@@ -1,0 +1,43 @@
+C:/Users/82105/Desktop/Design/0617Design/Counter/freq_div.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freq_div
+
+Top level modules:
+	freq_div
+
+} {} {}} C:/Users/82105/Desktop/Design/0617Design/Counter/count.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0617Design\Counter\count.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module count
+
+Top level modules:
+	count
+
+} {} {}} C:/Users/82105/Desktop/Design/0617Design/Counter/TB.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/82105/Desktop/Design/0617Design/Counter/synccount.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0617Design\Counter\synccount.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module synccount
+
+Top level modules:
+	synccount
+
+} {} {}} C:/Users/82105/Desktop/Design/0617Design/Counter/count_div.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0617Design\Counter\count_div.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module count_div
+
+Top level modules:
+	count_div
+
+} {} {}} C:/Users/82105/Desktop/Design/0617Design/Counter/asynccount.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0617Design\Counter\asynccount.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module asynccount
+
+Top level modules:
+	asynccount
+
+} {} {}}

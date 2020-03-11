@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0617Design/Clock
+vcount10
+Z0 !s110 1560771488
+!i10b 1
+!s100 0caA?=8BW98iCdGlz?4YL2
+IcmLQ^`UVA:7Nn@j]<>zU32
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0617Design/Stopwatch
+w1560771474
+8C:\Users\82105\Desktop\Design\0617Design\Stopwatch\count10.v
+FC:\Users\82105\Desktop\Design\0617Design\Stopwatch\count10.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1560771488.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Stopwatch\count10.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Stopwatch\count10.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcount6
+R0
+!i10b 1
+!s100 EYZ`bTfDa3T6d@MTX6kf=0
+ILS^jzPMCc2hni86c^S8092
+R1
+R2
+w1560771486
+8C:\Users\82105\Desktop\Design\0617Design\Clock\count6.v
+FC:\Users\82105\Desktop\Design\0617Design\Clock\count6.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0617Design\Clock\count6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Clock\count6.v|
+!i113 1
+R5
+R6
+vfreq_div
+R0
+!i10b 1
+!s100 SnJAoR9ANn[PkZNzedb6i0
+I7WNdUWl5U1j7C_m3T9:Gi0
+R1
+R2
+w1560771395
+8C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v
+FC:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1560771487.000000
+!s107 C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Counter\freq_div.v|
+!i113 1
+R5
+R6
+vTB
+R0
+!i10b 1
+!s100 XHb7b?K?=67>]?H5:c`hj0
+I0^bCVG1F6?NZ2<jf9@o=I3
+R1
+R2
+w1560771374
+8C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v
+FC:\Users\82105\Desktop\Design\0617Design\Counter\TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0617Design\Counter\TB.v|
+!i113 1
+R5
+R6
+n@t@b

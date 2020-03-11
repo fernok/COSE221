@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0619Design/CALC
+vcalc
+Z0 !s110 1561301589
+!i10b 1
+!s100 OOmn;<`kQZ^Cj2Z5Af3WR0
+I:K5Q1cFDMA=3zXj;iKKjz1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0619Design/CALCv3
+w1561301587
+8C:\Users\82105\Desktop\Design\0619Design\CALCv3\calc.v
+FC:\Users\82105\Desktop\Design\0619Design\CALCv3\calc.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1561301589.000000
+!s107 C:\Users\82105\Desktop\Design\0619Design\CALCv3\calc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0619Design\CALCv3\calc.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vseg7
+R0
+!i10b 1
+!s100 J21HmCnJgfK_1T3<U>HbG2
+I=j=?HIkSR`Cn=7COkO@CW2
+R1
+R2
+w1561296567
+8C:\Users\82105\Desktop\Design\0619Design\CALCv3\seg7.v
+FC:\Users\82105\Desktop\Design\0619Design\CALCv3\seg7.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0619Design\CALCv3\seg7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0619Design\CALCv3\seg7.v|
+!i113 1
+R5
+R6
+vtop_module
+R0
+!i10b 1
+!s100 diYf83PVWX3cPSQgo7K;[3
+IdnWd1Gl_8I7k13=0GcOPf3
+R1
+R2
+w1561296742
+8C:\Users\82105\Desktop\Design\0619Design\CALCv3\top_module.v
+FC:\Users\82105\Desktop\Design\0619Design\CALCv3\top_module.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\82105\Desktop\Design\0619Design\CALCv3\top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\82105\Desktop\Design\0619Design\CALCv3\top_module.v|
+!i113 1
+R5
+R6

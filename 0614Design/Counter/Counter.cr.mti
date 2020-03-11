@@ -1,0 +1,43 @@
+C:/Users/82105/Desktop/Design/0614Design/Counter/freq_div.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0614Design\Counter\freq_div.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freq_div
+
+Top level modules:
+	freq_div
+
+} {} {}} C:/Users/82105/Desktop/Design/0614Design/DFF/testbench.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0614Design\DFF\testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/82105/Desktop/Design/0614Design/Counter/sync_cnt.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0614Design\Counter\sync_cnt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sync_cnt
+
+Top level modules:
+	sync_cnt
+
+} {} {}} C:/Users/82105/Desktop/Design/0614Design/Counter/mono_cnt.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0614Design\Counter\mono_cnt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mono_cnt
+
+Top level modules:
+	mono_cnt
+
+} {} {}} C:/Users/82105/Desktop/Design/0614Design/Counter/freqdiv_cnt.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0614Design\Counter\freqdiv_cnt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module freqdiv_cnt
+
+Top level modules:
+	freqdiv_cnt
+
+} {} {}} C:/Users/82105/Desktop/Design/0614Design/Counter/async_cnt.v {1 {vlog -work work -stats=none {C:\Users\82105\Desktop\Design\0614Design\Counter\async_cnt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module async_cnt
+
+Top level modules:
+	async_cnt
+
+} {} {}}

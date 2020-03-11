@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/Basic Gates
+vFullAdder
+Z0 !s110 1554781378
+!i10b 1
+!s100 90mIEOZj>RJeYXOBQTQiz3
+IJelmZO]XdOS7Qc]Baze^k0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/Adder
+w1554780869
+8C:/Users/82105/Desktop/Design/Adder/FullAdder.v
+FC:/Users/82105/Desktop/Design/Adder/FullAdder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1554781378.000000
+!s107 C:/Users/82105/Desktop/Design/Adder/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/FullAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@full@adder
+vFullAdder_TB
+R0
+!i10b 1
+!s100 gCNhii_A]>j<eH]AUI<5:1
+I;J@?bKJ05Ck`@zcL2nhSV3
+R1
+R2
+w1554780773
+8C:/Users/82105/Desktop/Design/Adder/FullAdder_TB.v
+FC:/Users/82105/Desktop/Design/Adder/FullAdder_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Adder/FullAdder_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/FullAdder_TB.v|
+!i113 1
+R5
+R6
+n@full@adder_@t@b
+vHA_BM
+R0
+!i10b 1
+!s100 W]9OOQ:X<;9Z1kbj^ZTQ@0
+IaQ=hlRZ4EYQdekZA3_Wga2
+R1
+R2
+w1554780272
+8C:/Users/82105/Desktop/Design/Adder/HA_BM.v
+FC:/Users/82105/Desktop/Design/Adder/HA_BM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Adder/HA_BM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/HA_BM.v|
+!i113 1
+R5
+R6
+n@h@a_@b@m
+vHA_RTL
+!s110 1554781377
+!i10b 1
+!s100 WoCceGM3RF^a1oFMbhkKa1
+I_RWV37BjI5=ORL42=F7DP1
+R1
+R2
+w1554779844
+8C:/Users/82105/Desktop/Design/Adder/HA_RTL.v
+FC:/Users/82105/Desktop/Design/Adder/HA_RTL.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1554781377.000000
+!s107 C:/Users/82105/Desktop/Design/Adder/HA_RTL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/HA_RTL.v|
+!i113 1
+R5
+R6
+n@h@a_@r@t@l
+vHalfAdder_TB
+R0
+!i10b 1
+!s100 7RF2[iDTYaFKkQ@hiN2:J3
+IhX[=<2KONoQ@KOEGaA=mL2
+R1
+R2
+w1554780141
+8C:/Users/82105/Desktop/Design/Adder/HalfAdder_TB.v
+FC:/Users/82105/Desktop/Design/Adder/HalfAdder_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Adder/HalfAdder_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/HalfAdder_TB.v|
+!i113 1
+R5
+R6
+n@half@adder_@t@b
+vRCA
+R0
+!i10b 1
+!s100 JK1Ua=kSTLJmbAdZOL70g3
+I5Goj7i0K^PGBRHnD6>eMQ2
+R1
+R2
+w1554781185
+8C:/Users/82105/Desktop/Design/Adder/RCA.v
+FC:/Users/82105/Desktop/Design/Adder/RCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Adder/RCA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/RCA.v|
+!i113 1
+R5
+R6
+n@r@c@a
+vRCA_TB
+R0
+!i10b 1
+!s100 QIP5niD`[SHgI=ejkQ]O]1
+IoTz@6;Ihz=[18C784?=F;3
+R1
+R2
+w1554781361
+8C:/Users/82105/Desktop/Design/Adder/RCA_TB.v
+FC:/Users/82105/Desktop/Design/Adder/RCA_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/Adder/RCA_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/Adder/RCA_TB.v|
+!i113 1
+R5
+R6
+n@r@c@a_@t@b

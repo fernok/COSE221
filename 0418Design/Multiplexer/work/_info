@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/82105/Desktop/Design/0418Design/Adder
+vMP_BM
+Z0 !s110 1555553793
+!i10b 1
+!s100 :a?eTdV7hcIaM>dfPknMK1
+I<Xz7Pz1f1[AC^9CEjBG2f2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/82105/Desktop/Design/0418Design/Multiplexer
+w1555553686
+8C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_BM.v
+FC:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_BM.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1555553793.000000
+!s107 C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_BM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_BM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@m@p_@b@m
+vMP_RTL
+R0
+!i10b 1
+!s100 T66eV;h_k<mQ[KB7_GUjk0
+I<6[gmT_25]d_mMVBYlJ632
+R1
+R2
+w1555553520
+8C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_RTL.v
+FC:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_RTL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_RTL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_RTL.v|
+!i113 1
+R5
+R6
+n@m@p_@r@t@l
+vMP_TB
+R0
+!i10b 1
+!s100 eRJj:5eVhk`BV]jce=Q`]1
+I5cTD<[j3IVlkWT29Sz0oJ2
+R1
+R2
+w1555553745
+8C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_TB.v
+FC:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/82105/Desktop/Design/0418Design/Multiplexer/MP_TB.v|
+!i113 1
+R5
+R6
+n@m@p_@t@b
